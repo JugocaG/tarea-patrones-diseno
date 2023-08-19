@@ -1,4 +1,6 @@
 # tarea-patrones-diseno
+- Juan David Gomez Calderon
+- Sebastian Andres Guerra Rodriguez
 
 
 PROBLEMA UNO
